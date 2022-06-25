@@ -6,7 +6,8 @@ If it seems important enough or we get asked that question a lot, we will probab
 
 Alternatively, you could [contribute](#CONTRIBUTING.md) an answer yourself.
 
-## Contents
+## Contents...
+...
 
 - [Does OSSU offer a degree?](#does-ossu-offer-a-degree)
 - [How can I review the math prerequisites?](#how-can-i-review-the-math-prerequisites)
